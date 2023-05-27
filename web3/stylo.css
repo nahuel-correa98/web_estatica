@@ -1,0 +1,19 @@
+body{    
+background: url(kratos_cave2.jpg) no-repeat;
+background-size: cover;
+}
+
+h1{
+    font-size: 47px;
+color: rgb(219, 13, 13);
+}
+
+h2{
+font-size: 40px;
+color: rgb(216, 60, 60);
+}
+
+p{
+font-size: 25px;
+color: coral;
+}
